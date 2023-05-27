@@ -16,26 +16,31 @@ Nevertheless, I will follow the same rules!**
 <summary>day 1 - 2023-05-24</summary>
 
 **Today's Progress:** 
+- coded the very first code in python
 
 **Thoughts:** 
+- python seems a little off-road for my career plans, but I intend to gain skills in automation to optimize processes and gain time mid-term.
+- studied about docker in the graduate course
 
 **Link to work:**
 </details>
 
 <details>
-<summary>day 2</summary>
+<summary>day 2 - 2023-05-25</summary>
 
 **Today's Progress:** 
 
 **Thoughts:** 
+- still coding in Python, now learned about some web scraping
 
 **Link to work:**
 </details>
 
 <details>
-<summary>day 3</summary>
+<summary>day 3 - 2023-05-26</summary>
 
 **Today's Progress:** 
+- less coding today, just work stuff and some graduate course docker lessons  :/
 
 **Thoughts:** 
 
