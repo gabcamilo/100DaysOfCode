@@ -9,7 +9,7 @@ Two Main Rules:
 **Despite the original challenge says I must tweet every day I don't really use social media, so I'm making this commitment here on GitHub!
 Nevertheless, I will follow the same rules!**
 
-![](https://geps.dev/progress/1)
+![](https://geps.dev/progress/4)
 
 
 <details>
@@ -29,11 +29,8 @@ Nevertheless, I will follow the same rules!**
 <summary>day 2 - 2023-05-25</summary>
 
 **Today's Progress:** 
-
-**Thoughts:** 
 - still coding in Python, now learned about some web scraping
 
-**Link to work:**
 </details>
 
 <details>
@@ -42,17 +39,18 @@ Nevertheless, I will follow the same rules!**
 **Today's Progress:** 
 - less coding today, just work stuff and some graduate course docker lessons  :/
 
-**Thoughts:** 
-
-**Link to work:**
 </details>
 
 <details>
-<summary>day 4</summary>
+<summary>day 4 - 2023-05-27</summary>
 
 **Today's Progress:** 
+- more lessons about docker
+- implemented several Dockerfiles mostly exploring the differences between RUN, CMD and ENTRYPOINT
+- also deepened my knowledge in docker-compose, planning to implement it tomorrow
 
 **Thoughts:** 
+every time I study about docker I get more amazed by it! It's impressive how you can use it day by day and suddenly learn a new mindblowing concept!
 
 **Link to work:**
 </details>
